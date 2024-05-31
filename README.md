@@ -37,4 +37,4 @@
  - Chatbox   allows you to chat with the target. very small delay between messages though.
 
  Exploit:
- DLL Loader   loads a malicious dll into the targets system32.
+ - DLL Loader   loads a malicious dll into the targets system32.
